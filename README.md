@@ -8,6 +8,7 @@
 
 ### Crates
 - [clap](https://github.com/clap-rs/clap) - Command line argument parser
+- [vergen](https://github.com/rustyhorde/vergen) - Emit build, git, rustc information
 
 
 ### Points
